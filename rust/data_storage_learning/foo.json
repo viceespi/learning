@@ -1,0 +1,65 @@
+{
+    "user_type": {
+        "name": {
+            "first_name": "Vicenzo",
+            "last_name": "Lima"
+        },
+        "cpf": {
+            "first_nine_digits": [
+                0,
+                1,
+                8,
+                8,
+                6,
+                3,
+                8,
+                7,
+                1
+            ],
+            "last_two_digits": [
+                7,
+                6
+            ]
+        },
+        "date_of_birth": {
+            "year": 29,
+            "month": 9,
+            "day": 29
+        },
+        "email": {
+            "local_part": "Vikenzoespindolaa",
+            "email_domain": "@gmail",
+            "top_domain": ".com"
+        },
+        "telephone": {
+            "ddd": "34",
+            "phone_number": "992437871"
+        },
+        "adress": {
+            "adress_number": "6307",
+            "postal_code": "15505325"
+        }
+    },
+    "account_type": "Corrente",
+    "account_login": {
+        "first_nine_digits": [
+            0,
+            1,
+            8,
+            8,
+            6,
+            3,
+            8,
+            7,
+            1
+        ],
+        "last_two_digits": [
+            7,
+            6
+        ]
+    },
+    "account_password": "Nina100%",
+    "agency": 0,
+    "balance": 0.00,
+    "credit_card": {}
+}
